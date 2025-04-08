@@ -50,3 +50,7 @@ Desktop.ini
 *.tsv
 *.jsonl
 :
+
+
+./package-lock.json
+package-lock.json
